@@ -1,0 +1,6 @@
+Ieman	31	Computer Science	2019	Mathematics	9:00 AM - 12:00 PM	1/1/2025	S1	Hall-A	
+ieman	31	Computer Science	2019	Mathematics	9:00 AM - 12:00 PM	12/1/2024	S1	Hall-A	
+ieman	31	Electronics	2022	Chemistry	1:00 PM - 4:00 PM	11/1/2025	S1	Hall-A	
+ieman	31	Electronics	2019	Physics	9:00 AM - 12:00 PM	11/1/2025	S1	Hall-A	
+ali	31	Software	2022	Mathematics	5:00 PM - 8:00 PM	13/7/2003	S1	Hall-A	
+ieman	31	Civil	2020	Mathematics	1:00 PM - 4:00 PM	1/12/2025	S1	Hall-A	
